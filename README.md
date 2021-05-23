@@ -1,8 +1,8 @@
-## Aplicacion del Clima - Curso Node
+## Wheater App
 
-recuerden ejecutar ```npm install``` para las librerias
+run ```npm install```
 
-## Ejemplo
+## Example
 ```
-node app -d cojutepeque
+node app -d madrid
 ```
